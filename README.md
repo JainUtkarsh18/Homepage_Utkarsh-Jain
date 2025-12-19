@@ -1,3 +1,3 @@
 Homepage Link: https://utkarsh-jain-homepage.netlify.app/
 
-(HTML and CSS)
+(Languages used: HTML and CSS)
